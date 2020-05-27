@@ -94,7 +94,7 @@ A really helpful resource for doing this project and creating smooth trajectorie
 
 ## Result
 
-![alt text](../data/screenshot.png "Result")
+![alt text](/data/screenshot.png)
 
 ## Code Overview
 
