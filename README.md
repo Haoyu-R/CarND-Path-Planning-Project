@@ -92,6 +92,10 @@ A really helpful resource for doing this project and creating smooth trajectorie
     git checkout e94b6e1
     ```
 
+## Result
+
+![alt text](../data/screenshot.png "Result")
+
 ## Code Overview
 
 1. Given a lane number, a distance "horizon" to look forward and a distance "buffer" to look backward, Check whether in a vehicle is too close to ego vehicle. 
